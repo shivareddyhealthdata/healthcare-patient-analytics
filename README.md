@@ -91,3 +91,7 @@ The dataset used in this project is synthetic and created for educational and po
 👨‍💻 Skills Demonstrated
 
 Healthcare Analytics | Excel | Data Cleaning | Data Analysis | Pivot Tables | Data Visualization | KPI Development | Dashboarding | Business Insights
+
+## 📊 Dashboard Preview
+
+![Healthcare Dashboard](screenshots/healthcare-dashboard.png)
