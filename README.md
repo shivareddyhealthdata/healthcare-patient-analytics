@@ -94,4 +94,4 @@ Healthcare Analytics | Excel | Data Cleaning | Data Analysis | Pivot Tables | Da
 
 ## 📊 Dashboard Preview
 
-![Healthcare Dashboard](screenshots/healthcare-dashboard.png)
+![Healthcare Dashboard](screenshorts/healthcare-dashboard.png)
